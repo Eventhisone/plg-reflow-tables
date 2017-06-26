@@ -1,0 +1,18 @@
+<?xml version="1.1" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content" method="upgrade">
+  <name>Reflow Tables</name>
+  <author>wwwebweavers.com</author>
+  <creationDate>June 2017</creationDate>
+  <copyright>Copyright (C) 2005 - 2013 Open Source Matters. All rights reserved.</copyright>
+  <license>GNU General Public License version 2 or later</license>
+  <authorEmail>eventhisone@gmail.com</authorEmail>
+  <authorUrl>wwwebweavers.com</authorUrl>
+  <version>3.1.0</version>
+  <description>
+    A simple plugin for creating tables that reflow when on small screen devices.</description>
+  <files>
+    <filename plugin="reflow-tables">reflow-tables.php</filename>
+    <filename>reflow-tables.css</filename>
+    <filename>reflow-tables.php</filename>
+  </files>
+</extension>
